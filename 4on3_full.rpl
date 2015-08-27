@@ -1,0 +1,9 @@
+key        	 value
+width      	 4
+height     	 3
+depth      	 1024
+offset     	 0
+data-Length	 2
+data-type  	 unsigned
+byte-order 	 little-endian
+record-by  	 vector
