@@ -7,7 +7,7 @@ P45* are from sample P45 - the dacite from Polish Sudetes
 
 |files           | describtion
 |-----------------|-----------
-|P50_situation.bcf| counting rates at levels where bruker instructively packed arrays kicks in. A perfect sample of 12bit and instructively packed pixel mix. The array should be 8bit.
+|../P50_situation.bcf| counting rates at levels where bruker instructively packed arrays kicks in. A perfect sample of 12bit and instructively packed pixel mix. The array should be 8bit.
 |`   all P45*` | smallest possible size settable on Esprit(100x75), all aquisitions done on the same ROI
 |P45_instructively_packed_8bit.bcf| sample with level of counts/pulses where instructive packing is used mostly.
 |P45_instructively_packed_8bit_compressed.bcf| -//- compressed.
